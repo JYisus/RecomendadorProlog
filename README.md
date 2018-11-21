@@ -6,7 +6,7 @@ recomendador.pl
 Se trata de un recomendador de películas, libros, música... Su funcionamiento se basa en tener una puntuación interna de compatibilidad.
 Esta atiende al número de géneros que tiene la película en común con los que le especificas que te gusta. De acuerdo a esto, se crea una lista ordenada de mayor a menor puntuación.
 ## ¿Cómo se usa?
-la sentencia principal es:
+La sentencia principal es:
 ```
 recomienda(Medio,ListaDeGustos,Recomendacion).
 ```
