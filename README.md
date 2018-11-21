@@ -11,6 +11,6 @@ la sentencia principal es:
 recomienda(Medio,ListaDeGustos,Recomendacion).
 ```
 donde:
-- *Medio = peĺicula o libro o musica (lo que quiere que te recomiende)
-- ListaDeGustos = Una lista de géneros que te gustan.
-- Recomendacion = Variable donde se mostrará la recomendación que se te está haciendo*
+- *Medio = peĺicula o libro o musica (lo que quiere que te recomiende)*
+- *ListaDeGustos = Una lista de géneros que te gustan.*
+- *Recomendacion = Variable donde se mostrará la recomendación que se te está haciendo*
